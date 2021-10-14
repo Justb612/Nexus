@@ -1,0 +1,140 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Ekko_0.jpg",
+    "baseName": "Ekko_0.jpg",
+    "format": "JPEG",
+    "formatDescription": "JPEG",
+    "mimeType": "image/jpeg",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 1215,
+      "height": 717,
+      "x": 0,
+      "y": 0
+    },
+    "resolution": {
+      "x": 96,
+      "y": 96
+    },
+    "printSize": {
+      "x": 12.6562,
+      "y": 7.46875
+    },
+    "units": "PixelsPerInch",
+    "type": "TrueColor",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 2613465,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 38.9715,
+        "median": 12.3333,
+        "standardDeviation": 8775.45,
+        "kurtosis": 7.16661,
+        "skewness": 2.30849,
+        "entropy": 0.807689
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 41.2521,
+        "median": 20,
+        "standardDeviation": 7775.88,
+        "kurtosis": 9.36409,
+        "skewness": 2.69036,
+        "entropy": 0.780715
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 38.5019,
+        "median": 10,
+        "standardDeviation": 9532.58,
+        "kurtosis": 5.96604,
+        "skewness": 2.18682,
+        "entropy": 0.823291
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 37.1604,
+        "median": 7,
+        "standardDeviation": 9017.91,
+        "kurtosis": 6.95676,
+        "skewness": 2.22014,
+        "entropy": 0.81906
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 1215,
+      "height": 717,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "JPEG",
+    "quality": 85,
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2021-10-14T13:39:44+00:00",
+      "date:modify": "2021-10-14T13:39:44+00:00",
+      "exif:Software": "paint.net 4.0.21",
+      "jpeg:colorspace": "2",
+      "jpeg:sampling-factor": "1x1,1x1,1x1",
+      "signature": "15b7b1521ed4236e0271c8f913cac06b883f55cca6250ab10fcd5a45ca70761e"
+    },
+    "profiles": {
+      "exif": {
+        "length": 102
+      }
+    },
+    "tainted": false,
+    "filesize": "135656B",
+    "numberPixels": "871155",
+    "pixelsPerSecond": "26.0211MB",
+    "userTime": "0.040u",
+    "elapsedTime": "0:01.033",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+}]

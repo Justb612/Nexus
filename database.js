@@ -4,10 +4,9 @@ const backgroundVideoThree = require("./video/vex.mp4");
 const p1G = require("./video/Garen_0.jpg"); 
 const p2G = require("./video/Garen_1.jpg");
 const p3G = require("./video/Garen_2.jpg");
-const p1V = require("./video/vex1.jpg");
+const p1V = require("http://localhost:4000/vex1.jpg"); 
 const p2V = require("./video/vex2.jpg");
 const p3V = require("./video/vex3.jpg");
-const p1 = require("./video/Ekko_0.jpg");
 const p2 = require("./video/Ekko_1.jpg");
 const p3 = require("./video/Ekko_2.jpg"); */
 
