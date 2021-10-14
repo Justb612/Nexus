@@ -7,11 +7,11 @@ const database = require("./database.js");
 
 app.use(cors());
 
-app.get("/", async (req, res, next) => {
-  res.send(database);
-});
+app.use(express.static("video"));
 
-app.use(express.static("./video"));
+app.get("/", async (req, res, next) => {
+  res.send(database.database);
+});
 
 app.set("PORT", process.env.PORT || PORT);
 app.listen(app.get("PORT"), (server) => {
