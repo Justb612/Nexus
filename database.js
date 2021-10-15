@@ -6,8 +6,7 @@ const p2G = require("./video/Garen_1.jpg");
 const p3G = require("./video/Garen_2.jpg");
 const p1V = require("http://localhost:4000/vex1.jpg"); 
 const p2V = require("./video/vex2.jpg");
-const p3V = require("./video/vex3.jpg");
-const p1 = require("/Ekko_0.jpg"); 
+const p3V = require("./video/vex3.jpg"); 
 const p2 = require("./video/Ekko_1.jpg");
 const p3 = require("./video/Ekko_2.jpg"); */
 
@@ -37,8 +36,8 @@ const profile1 = {
   name: "Ekko",
   headline: "Ekko Champion Spotlight",
   headline2: "Hover Dose Icons Basterd",
-  vidSource: "ekko.mp4",
-  picOne: "Ekko_0.jpg",
+  //vidSource: "ekko.mp4",
+  //picOne: p1,
   //picTwo: p2,
   //picThree: p3,
   like: false,
