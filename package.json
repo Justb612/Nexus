@@ -8,6 +8,11 @@
     "axios": "^0.23.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "googleapis": "^88.2.0",
+    "js": "^0.1.0",
+    "mime-types": "^2.1.33",
+    "request": "^2.88.2",
+    "require": "^2.4.20",
     "start": "^5.1.0"
   },
   "devDependencies": {},
