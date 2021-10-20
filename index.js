@@ -2,7 +2,7 @@ const express = require("express");
 const axios = require("axios");
 const app = express();
 const cors = require("cors");
-const PORT = 4000;
+const PORT = 5000;
 const database = require("./database.js");
 
 app.use(cors());
@@ -10,7 +10,7 @@ app.use(cors());
 app.use(express.static("video"));
 
 app.get("/", async (req, res, next) => {
-  res.send(database.database);
+  res.send(database);
 });
 
 app.set("PORT", process.env.PORT || PORT);
